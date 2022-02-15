@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\MapPreview.cs" />
     <Compile Include="Assets\Scripts\ThreadedDataRequester.cs" />
     <Compile Include="Assets\Scripts\Data\TextureData.cs" />
+    <Compile Include="Assets\Scripts\Item.cs" />
     <Compile Include="Assets\Scripts\TextureGenerator.cs" />
     <Compile Include="Assets\Scripts\HideOnPlay.cs" />
     <Compile Include="Assets\Scripts\FalloffGenerator.cs" />
@@ -66,12 +67,12 @@
     <Compile Include="Assets\Scripts\TerrainChunk.cs" />
     <Compile Include="Assets\Scripts\HeightMapGenerator.cs" />
     <Compile Include="Assets\Scripts\MeshGenerator.cs" />
+    <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\Data\MeshSettings.cs" />
     <Compile Include="Assets\Scripts\Noise.cs" />
     <Compile Include="Assets\Scripts\TerrainGenerator.cs" />
     <Compile Include="Assets\Scripts\Data\UpdatableData.cs" />
-    <Compile Include="Assets\Scripts\Inventory.cs" />
-    <Compile Include="Assets\Scripts\Item.cs" />
+    <Compile Include="Assets\Scripts\CharacterController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Scripts\Terrain.shader" />
